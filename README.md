@@ -2,12 +2,12 @@
 
 <h3>-Created a feature-rich Todo web application using React.js and Redux Toolkit.</h3>
 
-<p>-Implemented CRUD operations, enabling users to add, update, and delete tasks.</p>
+<h3>-Implemented CRUD operations, enabling users to add, update, and delete tasks.</h3>
 
-<p>-Integrated checkbox functionality for task completion tracking.</p>
+<h3>-Integrated checkbox functionality for task completion tracking.</h3>
 
-<p>-Leveraged Redux Toolkit for scalable and maintainable state management.</p>
+<h3>-Leveraged Redux Toolkit for scalable and maintainable state management.</h3>
 
-<p>-Implemented Redux actions for real-time updates during task operations.</p>
+<h3>-Implemented Redux actions for real-time updates during task operations.</h3>
 
-<p>-Styled the app with Tailwind CSS for efficient and maintainable styling.</p>
+<h3>-Styled the app with Tailwind CSS for efficient and maintainable styling.</h3>
