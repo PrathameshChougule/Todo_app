@@ -1,6 +1,6 @@
 # Todo App
 
-<p>Created a feature-rich Todo web application using React.js and Redux Toolkit.</p>
+<h3>-Created a feature-rich Todo web application using React.js and Redux Toolkit.</h3>
 
 <p>-Implemented CRUD operations, enabling users to add, update, and delete tasks.</p>
 
