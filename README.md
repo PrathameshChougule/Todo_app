@@ -1,18 +1,13 @@
 # Todo App
 
--Created a feature-rich Todo web application using React.js and Redux Toolkit.
+<p>Created a feature-rich Todo web application using React.js and Redux Toolkit.</p>
 
--Implemented CRUD operations, enabling users to add, update, and delete tasks.
+<p>-Implemented CRUD operations, enabling users to add, update, and delete tasks.</p>
 
--Integrated checkbox functionality for task completion tracking.
+<p>-Integrated checkbox functionality for task completion tracking.</p>
 
--Leveraged Redux Toolkit for scalable and maintainable state management.
+<p>-Leveraged Redux Toolkit for scalable and maintainable state management.</p>
 
--Implemented Redux actions for real-time updates during task operations.
+<p>-Implemented Redux actions for real-time updates during task operations.</p>
 
--Styled the app with Tailwind CSS for efficient and maintainable styling.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p>-Styled the app with Tailwind CSS for efficient and maintainable styling.</p>
